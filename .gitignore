@@ -1,2 +1,6 @@
 id_rsa
 .env
+id_rsa
+.env
+id_rsa.pub
+*.pem
